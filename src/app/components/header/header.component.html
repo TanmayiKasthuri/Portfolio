@@ -1,0 +1,15 @@
+<div style="height: 10vh;">
+  <div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" (click)="closeNav()">&times;</a>
+
+    <a class="animated fadeInUp" (click)="goto('about-me')">About Me</a>
+    <a  (click)="goto('experience')">Work and Study</a>
+    <a  (click)="goto('projects')">Projects</a>
+    <a  (click)="goto('skills')">Skills</a>
+    <a  (click)="goto('touch')">Get in touch</a>
+    <a href="{{resumeURL}}" target="_blank">Resume</a>
+  </div>
+  <span *ngIf="isMobile" class="animated bounceIn" style="font-size:30px;cursor:pointer;display: flex;justify-content: flex-end;" (click)="openNav()">
+    <img src="../../../assets/images/m.jpg" width="50px" height="50px" style="border-radius: 100px;margin: 5%;">
+  </span>
+</div>

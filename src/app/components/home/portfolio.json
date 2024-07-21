@@ -1,0 +1,388 @@
+{
+    "name" : "Mahith Murari",
+    "caption" : "I beleive in Consistency",
+    "summary" : "Attaending GHC'2023, Graduate Student Assistant - Software Developer at University of Florida, Pursuing MS in CS at University of Florida, Ex-Software Engineer Intern at Infotech Inc., Ex- Software Engineer at PowerSchool Group LLC, Ex-VITian",
+    "mainSummary" : "Dedicated Computer Scientist and Software Engineer, I combine a strong foundation in computer science with a passion for creating impactful tech solutions. With hands-on experience in Full Stack Development and expertise in Web Technologies, AI, and IoT, I thrive on crafting innovative solutions that seamlessly blend user needs with cutting-edge technology. \nMy journey has taken me from transforming outdated web interfaces into modern, engaging modules to developing serverless Progressive Web Applications with 1600+ downloads. I excel in tackling complex challenges, from optimizing codebases to orchestrating headless Selenium test video recording for efficient CI debugging. \nCommitted to staying at the forefront of technology trends, I am driven to shape the future through innovation. Aspiring to lead tech-driven initiatives and cultivate collaborative environments, I invite you to join me on this exciting journey of technological advancement and transformation.",
+    "endSummary" : "Always open to connect with people. Most of my projects are open-source, so if you have any questions or just want to connect with me, feel free to ping me, lets collaborate and build better tech.",
+    "photoUrl" : "",
+    "email" : "mailto:mahithmurari@gmail.com",
+    "links" : [
+        {
+            "linkUrl" : "https://mahith-murari.web.app/",
+            "icon" : "",
+            "name" : "Portfolio"
+        },
+        {
+            "linkUrl" : "https://www.linkedin.com/in/mahith-murari-23b2881a3",
+            "icon" : "",
+            "name" : "LinkedIn"
+        },
+        {
+            "linkUrl" : "https://github.com/MurariMahith",
+            "icon" : "",
+            "name" : "GitHub"
+        },
+        {
+            "linkUrl" : "https://www.instagram.com/murari_mahith_prabhakar/",
+            "icon" : "",
+            "name" : "Instagram"
+        }
+    ],
+    "skills": [
+        {
+            "skill": "Python",
+            "category": "Programming Languages",
+            "proficiency": 5
+        },
+        {
+            "skill": "JavaScript",
+            "category": "Programming Languages",
+            "proficiency": 4
+        },
+        {
+            "skill": "Java",
+            "category": "Programming Languages",
+            "proficiency": 4
+        },
+        {
+            "skill": "C#",
+            "category": "Programming Languages",
+            "proficiency": 4
+        },
+        {
+            "skill": "TypeScript",
+            "category": "Programming Languages",
+            "proficiency": 3
+        },
+        {
+            "skill": "Sql",
+            "category": "Programming Languages",
+            "proficiency": 4
+        },
+        {
+            "skill": "HTML5",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "CSS3",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "Angular",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "ASP.NET MVC",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "Web API 2",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "React.js",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "Node.js",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "Express JS",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "Django",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "REST APIs",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": ".Net framework",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": ".Net core",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "MEAN stack",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "MERN stack",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "Bootstrap",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "Spring boot",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "jQuery",
+            "category": "Web Technologies",
+            "proficiency": 4
+        },
+        {
+            "skill": "Jenkins",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "Docker",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "JSON",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "XML",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "SQL Server",
+            "category": "Database and Platforms",
+            "proficiency": 4
+        },
+        {
+            "skill": "MySQL",
+            "category": "Database and Platforms",
+            "proficiency": 4
+        },
+        {
+            "skill": "Firebase",
+            "category": "Database and Platforms",
+            "proficiency": 4
+        },
+        {
+            "skill": "Entity Framework",
+            "category": "Database and Platforms",
+            "proficiency": 4
+        },
+        {
+            "skill": "ORM",
+            "category": "Database and Platforms",
+            "proficiency": 4
+        },
+        {
+            "skill": "Mongoose",
+            "category": "Database and Platforms",
+            "proficiency": 4
+        },
+        {
+            "skill": "Microservices",
+            "category": "Database and Platforms",
+            "proficiency": 4
+        },
+        {
+            "skill": "AWS",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "SDLC",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "Git",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "Selenium",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "Visual Studio",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "GitHub",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "GitLab",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "JIRA",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "Agile Methodology",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "Pair programming",
+            "category": "Tools and Other",
+            "proficiency": 4
+        },
+        {
+            "skill": "Scrum",
+            "category": "Tools and Other",
+            "proficiency": 4
+        }
+    ]
+    ,
+    "education" : [
+        {
+            "universityName" : "University of Florida (UF)",
+            "degree" : "Master of Science",
+            "major" : "Computer Science",
+            "minor" : "",
+            "startDate" : "Aug 2023",
+            "endDate" : "May 2024",
+            "graduated" : false,
+            "cgpa" : "3.84/4.0",
+            "summary" : "",
+            "priority" : 1
+        },
+        {
+            "universityName" : "VIT University, Vellore (Vellore Institute of Technology)",
+            "degree" : "Master of Technology - Integrated",
+            "major" : "Software Engineering / Computer Science",
+            "minor" : "",
+            "startDate" : "Jul 2016",
+            "endDate" : "Jun 2021",
+            "graduated" : false,
+            "cgpa" : "8.58/10.0",
+            "summary" : "",
+            "priority" : 2
+        }
+    ],
+    "experiences" : [
+        {
+            "role" : "Graduate Student Assisstant - Software Developer",
+            "startRole" : null,
+            "company" : "University of Florida, IFAS Dept",
+            "location" : "Gainesville, Florida",
+            "startDate" : "Aug 2023",
+            "endDate" : "",
+            "timePeriod" : null,
+            "photoUrl" : "",
+            "summary" : "",
+            "subSummary" : "",
+            "techUsed" : ["C#", "Desktop Application", "Javascript", "Django", "Python", "HTML5", "CSS3", "Sql", "MySQL", "ArcGIS"],
+            "awards" : [],
+            "stillDoing" : true,
+            "priority" : 1,
+            "companyUrl" : "https://ifas.ufl.edu/",
+            "filesUrl" : []
+        },
+        {
+            "role" : "Software Engineer Intern",
+            "startRole" : null,
+            "company" : "Infotech inc.",
+            "location" : "Gainesville, Florida",
+            "startDate" : "May 2023",
+            "endDate" : "Aug 2023",
+            "timePeriod" : "4 Months",
+            "photoUrl" : "",
+            "summary" : "As a Software Engineering Intern at Infotech Inc., I developed a NuGet package for advanced accessibility analysis using Selenium and Axecore, significantly promoting compliance and inclusivity. This package included a customizable report generator for data-driven decisions and actionable accessibility insights. My work reduced developer effort by 50% through the initial accessibility analysis, uncovering 11k violations and streamlining Jenkins CI artifacts extraction with efficient PowerShell scripts, optimizing build time and achieving 80% app coverage. I also orchestrated headless Selenium test video recording via an innovative Puppeteer-Selenium architecture, enhancing CI debugging, and upgraded the application's UI by migrating from Bootstrap v3 to v4, modernizing the user experience.",
+            "subSummary" : "",
+            "techUsed" : ["C#", "ASP.Net MVC 5", "WebAPI", "Javascript", "NodeJS", "Selenium", "Puppeteer", "Jenkins", "Sql", "PowerShell Scripting", "LightHouse", "Accessibility Analysis", "Bootstrap"],
+            "awards" : ["11k violations in first run"],
+            "stillDoing" : false,
+            "priority" : 2,
+            "companyUrl" : "https://www.infotechinc.com/",
+            "filesUrl" : []
+        },
+        {
+            "role" : "Associate Software Engineer - II",
+            "startRole" : "Software Engineer Intern",
+            "company" : "PowerSchool Group LLC",
+            "location" : "Gainesville, Florida",
+            "startDate" : "Aug 2020",
+            "endDate" : "Jul 2022",
+            "timePeriod" : "24 Months",
+            "photoUrl" : "",
+            "summary" : "During my tenure at PowerSchool, I served as an Associate Software Engineer – 2, where I played a crucial role in the development and maintenance of web-based software and web services using Asp.Net MVC, Angular, JavaScript, and REST APIs. I led a 4-person innovation team, facilitating the design and development of a proof of concept (POC) that delivered enhanced flexibility to customers, adding significant value to the product. I also significantly improved cross-product document integration by implementing matching algorithms, resulting in a 30% decrease in data redundancy and a 40% reduction in third-party server calls, boosting overall efficiency. Additionally, I was responsible for analyzing, debugging, and fixing mission-critical bugs, writing unit tests, test plans, performing component testing, and conducting performance analysis.",
+            "subSummary" : "As a Software Engineering Intern at PowerSchool, I transformed various outdated pages into modern Angular modules, providing both a visually appealing UI for customers and enhanced developer benefits, which led to a 20% increase in customer engagement. I optimized the codebase by conducting a thorough analysis and removing unused code, resulting in improved code health, readability, and an 18% decrease in build time. Additionally, I assessed and remedied security risks in the application, including XSS, IDOR, and CSRF vulnerabilities, and conducted sprint and feature presentations to stakeholders, including product owners and project managers.",
+            "techUsed" : ["C#", "ASP.Net MVC 5", "WebAPI", "Angular", "Javascript", "NodeJS", "Selenium", "Puppeteer", "SqlServer", "TypeScript", "Bootstrap"],
+            "awards" : ["Best Performing intern 2020", "3rd in Hack-a-thon 2021"],
+            "stillDoing" : false,
+            "priority" : 3,
+            "companyUrl" : "https://www.powerschool.com/",
+            "filesUrl" : []
+        }
+    ],
+    "projects" : [
+        {
+            "name" : "Suggesto : Personalised movie recommendation app",
+            "caption" : "Serverless Frontend Heavy Single page application (PWA) and Android application",
+            "summary" : "Designed and developed Suggesto, a Progressive Web Application (PWA) using Angular, TypeScript, Bootstrap, and Firebase. This serverless platform offers personalized movie recommendations and fosters user engagement. With 1600+ downloads on Google PlayStore and 700+ registered users, it includes wish-listing, incognito mode, and social features to connect with friends. Suggesto enhances the movie-watching experience by reducing search time and redirecting users to movie platforms seamlessly.",
+            "photourl" : "",
+            "link" : "https://play.google.com/store/apps/details?id=xyz.appmaker.jibpca",
+            "link2" : "https://weekendmoviesuggestion.web.app/home",
+            "githubLink" : "https://github.com/MurariMahith/SuggestoMain",
+            "techUsed" : ["Angular", "Javascript", "TypeScript", "HTML5", "CSS3", "Bootstrap", "Firebase", "OAuth"],
+            "awards" : ["1600+ downloads in Google PlayStore", "800+ registered users."]
+        },
+        {
+            "name" : "PowerPlay",
+            "caption" : "Role based Event management system for Schools",
+            "summary" : "Created PowerPlay, an event management system using ASP.Net MVC, Angular, TypeScript, Bootstrap, SQL Server, and Entity Framework. It streamlined event tracking at PowerSchool, reducing HR workload by 50%. The project gained recognition for potential integration into the company's real-time applications, enhancing event tracking and notifications in schools.",
+            "photourl" : "",
+            "link" : "",
+            "link2" : "",
+            "githubLink" : null,
+            "techUsed" : ["C#", "ASP.Net MVC 5", "WebAPI", "Angular", "Javascript", "TypeScript", "HTML5", "CSS3", "SqlServer", "Entity Framework", "OAuth"],
+            "awards" : ["3rd in Hack-a-thon", "Proposed to integrate in production"]
+        },
+        {
+            "name" : "Photography application",
+            "caption" : "Platform for photographers to showcase their work",
+            "summary" : "I conceptualized and launched a web-based Photography Application utilizing Python, Django, HTML5, CSS3, JavaScript, and SQLite. This innovative platform empowers photographers to showcase their portfolios with interactive posts, resulting in a remarkable 35% customer growth. Notably, the application offers a keyword-based image search feature, seamlessly integrated with the Unsplash API, enhancing users' ability to discover and connect with photographers. This project not only provided a valuable tool for artistic expression and networking but also significantly improved user engagement and the overall experience within the photography community.",
+            "photourl" : "",
+            "link" : null,
+            "link2" : null,
+            "githubLink" : "https://github.com/MurariMahith/sgphoto",
+            "techUsed" : ["Django", "Python", "Javascript", "HTML5", "CSS3", "ORM", "REST APIs"],
+            "awards" : []
+        },
+        {
+            "name" : "Dynamic Blogger Application",
+            "caption" : "Personal dynamic website for a Youtuber/Blogger",
+            "summary" : "I spearheaded the development of the Dynamic Blogger Application, catering to the renowned YouTuber RiseAloneYt. This dynamic website, built using Angular, TypeScript, Bootstrap, and the YouTube API, offers an engaging and user-friendly interface. It seamlessly integrates with YouTube, providing viewers easy access to the channel, video uploads, and social media handles. The website also offers real-time updates, keeping the audience abreast of the latest content. Its sleek design and interactive features enhance the viewer experience and contribute to RiseAloneYt's online presence, fostering a stronger connection with the audience.",
+            "photourl" : "",
+            "link" : null,
+            "link2" : "",
+            "githubLink" : "https://github.com/MurariMahith/RiseAloneyt",
+            "techUsed" : ["Angular", "Javascript", "TypeScript", "HTML5", "CSS3", "Bootstrap", "Youtube API", "REST APIs"],
+            "awards" : ["Live data analytics leveraging Youtube API"]
+        }
+    ],
+    "resumeUrl" : ""
+}
